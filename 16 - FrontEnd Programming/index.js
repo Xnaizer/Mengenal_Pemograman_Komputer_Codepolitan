@@ -1,0 +1,3 @@
+// Frontend programming bertanggung jawab untuk membuat tampilan dan layout website yang interaktif dan responsif. Bahasa yang digunakan mencakup HTML, CSS, dan JavaScript, yang digabungkan untuk menciptakan elemen seperti menu, button, dan form. Selain itu, frontend developer juga memanfaatkan framework dan library CSS/JS untuk mempercepat pengembangan.
+
+// Frontend programming juga mencakup pengembangan teknologi seperti Progressive Web App (PWA) untuk meningkatkan kecepatan dan aksesibilitas website. Frontend developer fokus pada tampilan dan pengalaman pengguna, tanpa menangani manajemen data atau infrastruktur. Profesi ini sangat dicari dengan potensi gaji yang menarik.

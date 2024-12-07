@@ -1,0 +1,19 @@
+/* 
+Compiler dan Interpreter keduanya adalah alat yang digunakan untuk menerjemahkan kode sumber dari bahasa pemrograman ke dalam bahasa mesin agar dapat dijalankan oleh komputer. Namun, mereka bekerja dengan cara yang berbeda:
+
+Compiler:
+
+Menerjemahkan seluruh kode sumber sekaligus menjadi file eksekusi (misalnya file .exe).
+Proses kompilasi terjadi sekali sebelum program dijalankan, dan hasilnya adalah file yang dapat langsung dieksekusi.
+Kelebihan: Program berjalan lebih cepat setelah dikompilasi, karena sudah diubah ke bahasa mesin.
+Kekurangan: Proses kompilasi membutuhkan waktu lebih lama, dan kesalahan dalam kode tidak dapat diketahui sampai seluruh kode dikompilasi.
+Contoh bahasa: C, C++, Java (kompilasi ke bytecode sebelum dijalankan di JVM).
+Interpreter:
+
+Menerjemahkan kode sumber baris per baris pada saat program dijalankan.
+Tidak menghasilkan file eksekusi terpisah; kode langsung dieksekusi selama penerjemahan.
+Kelebihan: Lebih cepat dalam tahap pengembangan karena bisa langsung melihat hasilnya, dan kesalahan terdeteksi segera setelah baris tersebut dijalankan.
+Kekurangan: Program berjalan lebih lambat karena terjemahan dilakukan setiap kali dijalankan.
+Contoh bahasa: Python, Ruby, JavaScript.
+
+Secara singkat, compiler lebih cocok untuk aplikasi yang membutuhkan performa tinggi, sementara interpreter lebih cocok untuk pengembangan cepat dan debugging. */

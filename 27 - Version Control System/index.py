@@ -1,0 +1,3 @@
+# Version Control System (VCS) adalah perangkat lunak yang membantu mengelola perubahan kode dari waktu ke waktu, memungkinkan rollback untuk meminimalkan kesalahan. VCS melindungi source code sebagai aset berharga, mencegah konflik dalam tim, dan memastikan backup tersedia. Tanpa VCS, pengelolaan kode menjadi sulit dan berisiko.
+
+# VCS juga dikenal sebagai SCM (Source Code Management) atau RCS (Revision Control System). Salah satu VCS terpopuler adalah Git, yang bersifat terdistribusi, open-source, dan gratis. VCS menjadi alat penting yang wajib dipelajari oleh programmer.
